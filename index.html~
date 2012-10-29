@@ -1467,7 +1467,7 @@ head.appendChild(script);
 <div class="ml_menu_box" id="nav_menu-4">
 <span class="ml_menu_title">Projekty C#</span>
 <ul class="menu" id="menu3">
-<li><a href="https://github.com/mosinski/Projekty-Visual-Studio">Papier Nożyce Kamień</a></li>
+<li><a href="#">Papier Nożyce Kamień</a></li>
 <li><a href="https://github.com/mosinski/kosCi">KosC#i</a></li>
 </ul>
 </div>
